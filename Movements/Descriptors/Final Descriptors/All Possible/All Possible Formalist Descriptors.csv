@@ -1,0 +1,53 @@
+,Unique
+0,Capture Color
+1,Expressionistic Color
+2,Naturalistic Color
+3,Random
+4,Random Shapes
+5,Uniform
+6,Highly Diverse Hue
+7,Similar Hue
+8,Somewhat Diverse Hue
+9,Monochrome Hue
+10,True Tone
+11,Vibrant Tone
+12,Muted/Tinted
+13,Friction/Tension Color
+14,Harmonious Color
+15,Blended Color Contrast
+16,Stark Color Contrast
+17,Normal/Regular Depth
+18,Deep Depth
+19,Shallow Depth
+20,Flat Depth
+21,Normal Contrast
+22,Low Contrast
+23,High Contrast
+24,Balanced Value
+25,Light Value
+26,Dark Value
+27,Intermediate Lines
+28,Distinct Lines
+29,Indistinct Lines
+30,Mostly Imbalanced Space
+31,Mostly Balanced Space
+32,Highly Imbalanced Space
+33,Highly Balanced Space
+34,Highly Static Movement
+35,Intermediate Movement
+36,Highly Dynamic Movement
+37,Small Empty Space
+38,Intermediate Empty Space
+39,Large Empty Space
+40,Intermediate Perspective
+41,Removed Perspective
+42,Direct Perspective
+43,Mostly Wild Brushstrokes
+44,Mostly Controlled Brushstrokes
+45,Mix/Intermediate Controlled Brushstrokes
+46,Mixed Visibility Brushstrokes
+47,Blended Brushstrokes
+48,Visible Brushstrokes
+49,Intermediate/Mix Outlines
+50,Light/No Outlines
+51,Heavy Outlines

@@ -1,0 +1,17 @@
+,Unique
+0,Mostly Imbalanced Space
+1,Highly Balanced Space
+2,Mostly Balanced Space
+3,Highly Imbalanced Space
+4,Random
+5,Random Shapes
+6,Uniform
+7,Intermediate Movement
+8,Highly Static Movement
+9,Highly Dynamic Movement
+10,Intermediate Empty Space
+11,Small Empty Space
+12,Large Empty Space
+13,Direct Perspective
+14,Intermediate Perspective
+15,Removed Perspective

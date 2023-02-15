@@ -1,0 +1,693 @@
+,Unique
+0,Naturalistic
+1,Organically Abstract
+2,Semi-Abstract
+3,Wholly Abstract
+4,Genre
+5,History Genre
+6,Landscape
+7,Portraiture
+8,Still life
+9,Indoors
+10,Outdoors
+11,Allegorical Subgenre
+12,History Subgenre
+13,Literary Subgenre
+14,Mythological Subgenre
+15,Religious Subgenre
+16,City
+17,Farm/grassland
+18,Forest
+19,Mountain
+20,River/Lake
+21,Sea/Ocean
+22,Aristocracy
+23,Commoner
+24,Government/Military
+25,Other/Self/Personal
+26,Religious
+27,Royalty
+28,Thinker/Artist
+29,Food
+30,Furniture
+31,Beach
+32,Flowers/Plants
+33,Random
+34,Random Shapes
+35,Uniform
+36,Private Domain
+37,Public Domain
+38,Indoors
+39,Outdoors
+40,Buildings
+41,Human(s)
+42,Animals
+43,Beauty/Ideal
+44,Confidence
+45,Genius
+46,Sadness
+47,Status
+48,Dedication
+49,Detachment
+50,Exhaustion
+51,Strife/Pain
+52,Youth
+53,the Mind
+54,Joy
+55,Serious
+56,Vacancy
+57,Greatness
+58,Thoughtful
+59,Warm
+60,Flowers/Plants
+61,Furniture
+62,Food
+63,Deconstruction
+64,Color
+65,Cycle of life
+66,Power
+67,Science
+68,Texture
+69,Rural Realm
+70,Urban Realm
+71,Public Domain
+72,Private Domain
+73,Beauty
+74,Bountiful/Giving
+75,Ideal
+76,Morality
+77,Peaceful
+78,Peace
+79,Sadness
+80,Mystery
+81,Power
+82,Harmony
+83,Status
+84,Beauty/Ideal
+85,Uneasiness
+86,Casual
+87,Confidence
+88,Dedication
+89,Greatness
+90,Joy
+91,Momentary
+92,Thoughtful
+93,Youth
+94,Sexuality
+95,Vacancy
+96,Nature Interaction
+97,Exhaustion
+98,Detachment
+99,Genius
+100,Sensual
+101,Serious
+102,Freshness
+103,Deconstruction
+104,Intimacy
+105,Abundance
+106,the Mind
+107,Color
+108,Minimalism
+109,Texture
+110,War
+111,Spirituality
+112,Mischievous
+113,Strife/Pain
+114,the Body
+115,Fear
+116,Isolation
+117,Ugly
+118,Cross Culturalism
+119,Love
+120,Conflict
+121,Dining
+122,Recreation
+123,Rest/Liesure
+124,Work
+125,Chores
+126,Religious Action
+127,Festivity/Celebration
+128,Violence
+129,Urban Realm
+130,Rural Realm
+131,Ideal
+132,Beauty
+133,Fast Pace
+134,Cycle of life
+135,Greatness
+136,Lively
+137,Peace
+138,Bountiful/Giving
+139,New Directions
+140,Texture
+141,Mystery
+142,Nature Interaction
+143,Unforgiving
+144,Danger
+145,Color
+146,Harmony
+147,Warm
+148,Dedication
+149,Serious
+150,Joy
+151,Mischievous
+152,Thoughtful
+153,Youth
+154,Gender
+155,Detachment
+156,Strength
+157,Confidence
+158,Freshness
+159,Elegance
+160,the Mind
+161,Intimacy
+162,Drama
+163,Vacancy
+164,Sadness
+165,Comfort
+166,Community/Family
+167,Momentary
+168,Beauty/Ideal
+169,Exhaustion
+170,Isolation
+171,Power
+172,Deconstruction
+173,Social Consciousness
+174,Spirituality
+175,Abundance
+176,Education
+177,Communication
+178,Uneasiness
+179,Sensual
+180,Minimalism
+181,Sexuality
+182,Status
+183,Strife/Pain
+184,Casual
+185,Communication
+186,Chores
+187,Beauty
+188,Love
+189,Rest/Liesure
+190,Occupation of Time
+191,Work
+192,Education
+193,Recreation
+194,the Mind
+195,Conflict
+196,the Body
+197,Dining
+198,Festivity/Celebration
+199,Social Consciousness
+200,Texture
+201,Violence
+202,Community/Family
+203,Cycle of life
+204,Spirituality
+205,Religious Action
+206,Power
+207,Detachment
+208,Freshness
+209,Harmony
+210,Momentary
+211,New Directions
+212,Uneasiness
+213,Ideal
+214,Peaceful
+215,Nature Interaction
+216,Unforgiving
+217,Isolation
+218,Color
+219,Fear
+220,Elegance
+221,Intimacy
+222,Serious
+223,Abundance
+224,Mischievous
+225,Youth
+226,Sensual
+227,Greatness
+228,Dedication
+229,Cross Culturalism
+230,Mystery
+231,Hope
+232,Casual
+233,Peace
+234,Warm
+235,Science
+236,Thoughtful
+237,Comfort
+238,Beauty/Ideal
+239,Vacancy
+240,Confidence
+241,Strength
+242,Minimalism
+243,Deconstruction
+244,Lively
+245,Bountiful/Giving
+246,Gender
+247,Government
+248,Joy
+249,Strife/Pain
+250,Independence
+251,Chores
+252,Occupation of Time
+253,Youth
+254,the Body
+255,Community/Family
+256,Science
+257,Peace
+258,Government
+259,Festivity/Celebration
+260,Love
+261,Communication
+262,Cycle of life
+263,the Mind
+264,Beauty
+265,Comfort
+266,Sensual
+267,Patriotism
+268,Detachment
+269,Casual
+270,Dedication
+271,Conflict
+272,Spirituality
+273,Nature Interaction
+274,Social Consciousness
+275,Sexuality
+276,Momentary
+277,Rest/Liesure
+278,Dining
+279,Vacancy
+280,Work
+281,Drama
+282,Morality
+283,Violence
+284,Recreation
+285,Religious Action
+286,Ideal
+287,Lively
+288,New Directions
+289,Harmony
+290,Strength
+291,Texture
+292,Elegance
+293,Thoughtful
+294,Abundance
+295,Confidence
+296,Freshness
+297,Ugly
+298,Sadness
+299,Uneasiness
+300,Gender
+301,Deconstruction
+302,Intimacy
+303,Beauty/Ideal
+304,Warm
+305,Color
+306,Mystery
+307, Deconstruction
+308,Joy
+309,Power
+310,Minimalism
+311,Strife/Pain
+312,Education
+313,Fast Pace
+314,Hope
+315,Festivity
+316,Greatness
+317,Primitivism
+318,Community/Family
+319,Youth
+320,Texture
+321,Beauty
+322,Love
+323,Science
+324,Momentary
+325,Harmony
+326,Occupation of Time
+327,Joy
+328,Vacancy
+329,Casual
+330,Government
+331,Comfort
+332,Drama
+333,Conflict
+334,Cycle of life
+335,the Body
+336,Social Consciousness
+337,Gender
+338,Sexuality
+339,the Mind
+340,Communication
+341,Morality
+342,Sensual
+343,Detachment
+344,Abundance
+345,Nature Interaction
+346,Isolation
+347,Color
+348,Elegance
+349,Chores
+350,Patriotism
+351,Festivity/Celebration
+352,Ugly
+353,Power
+354,Greatness
+355,New Directions
+356,Work
+357,Violence
+358,Recreation
+359,Rest/Liesure
+360,Spirituality
+361,Ideal
+362,Fear
+363,Sadness
+364,Confidence
+365,Peace
+366,Thoughtful
+367,Lively
+368,Deconstruction
+369,Strife/Pain
+370,Minimalism
+371,Cross Culturalism
+372,Religious Action
+373,Primitivism
+374,Fast Pace
+375,Discipline
+376,Freshness
+377,Uneasiness
+378,Love
+379,Casual
+380,Joy
+381,Mischievous
+382,Momentary
+383,the Body
+384,Occupation of Time
+385,Texture
+386,Social Consciousness
+387,Sensual
+388,Dedication
+389,Freshness
+390,Peace
+391,Harmony
+392,Youth
+393,Beauty
+394,Vacancy
+395,Detachment
+396,Isolation
+397,Fear
+398,Community/Family
+399,Elegance
+400,Lively
+401,Intimacy
+402,Fast Pace
+403,Gender
+404,Sexuality
+405,the Mind
+406,Drama
+407,Hope
+408,Nature Interaction
+409,Cycle of life
+410,Antiquity
+411,Morality
+412,Ugly
+413,Greatness
+414,Warm
+415,Power
+416,Exhaustion
+417,New Directions
+418,Uneasiness
+419,Bountiful/Giving
+420,Spirituality
+421,Government
+422,Communication
+423,Conflict
+424,Mystery
+425,Comfort
+426,Strife/Pain
+427,Loss
+428,Thoughtful
+429,Color
+430,Deconstruction
+431,Confidence
+432,Minimalism
+433,Cross Culturalism
+434,Sadness
+435,Work
+436,Abundance
+437,Strength
+438,Drama
+439,Joy
+440,Sexuality
+441,Gender
+442,Love
+443,Abundance
+444,Sensual
+445,the Body
+446,Peace
+447,Youth
+448,Detachment
+449,Harmony
+450,Morality
+451,Fear
+452,Strife/Pain
+453,Antiquity
+454,Ugly
+455,Fast Pace
+456,Social Consciousness
+457,Casual
+458,Science
+459,Lively
+460,Nature Interaction
+461,Texture
+462,Intimacy
+463,Occupation of Time
+464,Comfort
+465,Strength
+466,Deconstruction
+467,Beauty
+468,Momentary
+469,Patriotism
+470,Exhaustion
+471,Uneasiness
+472,Community/Family
+473,Greatness
+474,Cycle of life
+475,Government
+476,Elegance
+477,the Mind
+478,Power
+479,Color
+480,Spirituality
+481,Hope
+482,Loss
+483,Sadness
+484,Vacancy
+485,Freshness
+486,Confidence
+487,Minimalism
+488,Isolation
+489,Cross Culturalism
+490,Uneasiness
+491,Sexuality
+492,Drama
+493,Morality
+494,Freshness
+495,Intimacy
+496,Casual
+497,Peace
+498,Texture
+499,Lively
+500,Occupation of Time
+501,Ugly
+502,Sadness
+503,Warm
+504,Comfort
+505,Antiquity
+506,Joy
+507,Mischievous
+508,Harmony
+509,Nature Interaction
+510,Mystery
+511,Abundance
+512,Sensual
+513,New Directions
+514,Elegance
+515,Gender
+516,Exhaustion
+517,Patriotism
+518,Loss
+519,Greatness
+520,Strength
+521,Revolution
+522,Government
+523,Cross Culturalism
+524,Love
+525,Beauty
+526,Youth
+527,the Mind
+528,Cycle of life
+529,Social Consciousness
+530,Power
+531,Community/Family
+532,Isolation
+533,Fear
+534,Strife/Pain
+535,Deconstruction
+536,Primitivism
+537,Color
+538,Confidence
+539,Independence
+540,Vacancy
+541,Fast Pace
+542,Lively
+543,Harmony
+544,Gender
+545,Joy
+546,Abundance
+547,Ugly
+548,Strength
+549,Patriotism
+550,Drama
+551,Youth
+552,Sexuality
+553,Uneasiness
+554,Detachment
+555,Freshness
+556,Intimacy
+557,Nature Interaction
+558,Mystery
+559,Comfort
+560,Loss
+561,Peace
+562,Momentary
+563,Beauty
+564,Strife/Pain
+565,Government
+566,Elegance
+567,Antiquity
+568,Morality
+569,Discipline
+570,Ideal
+571,Texture
+572,the Body
+573,Sensual
+574,Sadness
+575,Love
+576,Isolation
+577,Greatness
+578,Cross Culturalism
+579,Exhaustion
+580,Occupation of Time
+581,Fast Pace
+582,Primitivism
+583,Color
+584,Casual
+585,Deconstruction
+586,Social Consciousness
+587,Sexuality
+588,Harmony
+589,Casual
+590,Intimacy
+591,Warm
+592,Love
+593,Dedication
+594,Loss
+595,Exhaustion
+596,Abundance
+597,Lively
+598,Texture
+599,Joy
+600,Sensual
+601,Comfort
+602,Fast Pace
+603,Youth
+604,Ugly
+605,Social Consciousness
+606,Uneasiness
+607,Drama
+608,Revolution
+609,Antiquity
+610,Gender
+611,Patriotism
+612,Nature Interaction
+613,Fear
+614,Government
+615,Strife/Pain
+616,the Body
+617,Morality
+618,Strength
+619,Beauty
+620,Greatness
+621,Sadness
+622,Cross Culturalism
+623,Minimalism
+624,Primitivism
+625,Isolation
+626,Color
+627,Lively
+628,Freshness
+629,Occupation of Time
+630,Drama
+631,Nature Interaction
+632,Elegance
+633,Harmony
+634,Dedication
+635,Discipline
+636,Independence
+637,Joy
+638,Momentary
+639,Patriotism
+640,Fear
+641,Loss
+642,Ugly
+643,Strife/Pain
+644,Revolution
+645,Sadness
+646,Uneasiness
+647,Strength
+648,Abundance
+649,Beauty
+650,Gender
+651,Morality
+652,Antiquity
+653,Intimacy
+654,Texture
+655,Sexuality
+656,Casual
+657,Color
+658,Sensual
+659,Cross Culturalism
+660,Vacancy
+661,Religious
+662,Harmony
+663,Lively
+664,Greatness
+665,Abundance
+666,Drama
+667,Fear
+668,Revolution
+669,Discipline
+670,Nature Interaction
+671,Strife/Pain
+672,Sadness
+673,Love
+674,Morality
+675,Loss
+676,Comfort
+677,Uneasiness
+678,Harmony
+679,Lively
+680,Sadness
+681,Revolution
+682,Drama
+683,Uneasiness
+684,Nature Interaction
+685,Antiquity
+686,Discipline
+687,Intimacy
+688,Comfort
+689,Greatness
+690,Uneasiness
+691,Sensual

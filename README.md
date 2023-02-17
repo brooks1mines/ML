@@ -12,5 +12,5 @@ This is where the dimensionality reduction of the raw data, clustering, and prec
 
 ## DeepLearning
 
-This is where the deployment of the Convolutional Neural Network (CNN) will take place.
+This is where the deployment of the Convolutional Neural Network (CNN) will take place. This is being actively edited and developed as of 02/17/23.
 

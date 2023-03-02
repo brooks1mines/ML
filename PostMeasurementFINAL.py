@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 11 16:13:09 2022
 
-@author: khloe
-"""
 
 import dask.dataframe as ddf
 import sklearn.preprocessing as skp

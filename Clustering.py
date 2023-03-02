@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 25 14:07:45 2022
-
-@author: khloe
-"""
 
 import pandas as pd
 import sklearn.preprocessing as skp
